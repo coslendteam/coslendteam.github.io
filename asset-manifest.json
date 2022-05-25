@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8557894.css",
-    "main.js": "/static/js/main.526aefe0.js",
+    "main.css": "/static/css/main.30b976c5.css",
+    "main.js": "/static/js/main.de2401d6.js",
     "static/js/787.9e65c33f.chunk.js": "/static/js/787.9e65c33f.chunk.js",
     "static/media/airdrop.png": "/static/media/airdrop.55a930184bcaf67c5a17.png",
     "static/media/CLND.png": "/static/media/CLND.0b3703ad864a2829dc94.png",
@@ -17,22 +17,33 @@
     "static/media/DMSans-Medium.ttf": "/static/media/DMSans-Medium.f458346900579196593a.ttf",
     "static/media/OSMO.png": "/static/media/OSMO.a87f25eb59cefb11956a.png",
     "static/media/ATOM.png": "/static/media/ATOM.57871200225b69e4c0e3.png",
+    "static/media/26-NodeOf Cosmonauts.png": "/static/media/26-NodeOf Cosmonauts.6e3795fc3b93b4916dde.png",
     "static/media/DAI.png": "/static/media/DAI.8fc5bf75649bfa37ffef.png",
     "static/media/switchNetwork.webp": "/static/media/switchNetwork.4d903b35c69924620bde.webp",
     "static/media/WBTC.png": "/static/media/WBTC.757370c06c31940a7b8b.png",
     "static/media/connectWallet.webp": "/static/media/connectWallet.3e2dc9be614d04b5063f.webp",
+    "static/media/32-StakeRun.png": "/static/media/32-StakeRun.375e749b6cd387a93e70.png",
+    "static/media/13-NosNodes.png": "/static/media/13-NosNodes.fbf323d6210c592e4539.png",
     "static/media/empty.png": "/static/media/empty.f48469c461e1e3b3a87f.png",
+    "static/media/05-Kinesis lab.png": "/static/media/05-Kinesis lab.fb1a7181eae28fa727e6.png",
+    "static/media/29-SilentNodes.png": "/static/media/29-SilentNodes.96ddc6cbf9156ffefc30.png",
+    "static/media/22-Lavender.Five.png": "/static/media/22-Lavender.Five.dc5ee4ce5155d59e7407.png",
+    "static/media/06-Stakecito.png": "/static/media/06-Stakecito.dc46bce59432314e4e2a.png",
     "static/media/USDC.png": "/static/media/USDC.0ae6a02701d67ba0f0b8.png",
+    "static/media/17-Ericet the Dev.png": "/static/media/17-Ericet the Dev.c88c93d8851e8c81f7ae.png",
+    "static/media/08-Swiss Staking AG.png": "/static/media/08-Swiss Staking AG.7a31e4a54525461d2319.png",
+    "static/media/18-Cosmos Spaces Validator.png": "/static/media/18-Cosmos Spaces Validator.5aa6896eae1a96caa374.png",
     "static/media/FRAX.png": "/static/media/FRAX.68b7cb5b0914420e6ef9.png",
+    "static/media/09-saddle.png": "/static/media/09-saddle.55b628760e5f00c5c4f2.png",
     "static/media/security4.png": "/static/media/security4.a0d3f78d53d89037c77d.png",
     "static/media/security1.png": "/static/media/security1.14330d284ca937aa081e.png",
     "index.html": "/index.html",
-    "main.c8557894.css.map": "/static/css/main.c8557894.css.map",
-    "main.526aefe0.js.map": "/static/js/main.526aefe0.js.map",
+    "main.30b976c5.css.map": "/static/css/main.30b976c5.css.map",
+    "main.de2401d6.js.map": "/static/js/main.de2401d6.js.map",
     "787.9e65c33f.chunk.js.map": "/static/js/787.9e65c33f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8557894.css",
-    "static/js/main.526aefe0.js"
+    "static/css/main.30b976c5.css",
+    "static/js/main.de2401d6.js"
   ]
 }
